@@ -63,7 +63,7 @@ I don't have any 😅
 
 ## Contact
 
-For any inquiries, please contact [arkapravabhattacharya01@gmail.com].
+For any inquiries, please contact [abhipriya.chowdhury.23@aot.edu.in].
 
 ---
 
