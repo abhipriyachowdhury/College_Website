@@ -1,0 +1,121 @@
+.side-menu{
+    font-family: Poppins;
+    position: fixed;
+    top: 10vh;
+    height: 90vh;
+    width: 25vw;
+    background-color: #f4d58d;
+}
+.about{
+    max-width: 50vh;
+    font-size: .875rem;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 10px;
+    font-family: Poppins;
+    color: black;
+}
+.about .address{
+    margin-left: 10px;
+}
+.about .address a{
+    color: black;
+    text-decoration: none;
+    font-weight: 400;
+}
+.address a:hover{
+    text-decoration: underline;
+}
+.about strong{
+    margin-left: 10px;
+}
+.about .about_links a {
+    display: flex;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.about_links{
+    display: flex;
+    flex-wrap: wrap;
+}
+.about_links a{
+    color: black;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+}
+.about_links a:hover{
+    color: red;
+}
+.search-bar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+  }
+  .search-bar-container span{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 500;
+  }
+  .recent-search{
+    margin-top: 40px;
+    margin-left: 15px;
+  }
+  .recent-points{
+    margin-top: 5px;
+    margin-left: 20px;
+  }
+  .recent-points li {
+    font-weight: 300;
+    list-style: none;
+  }
+  .recent-points li:hover{
+    text-decoration: underline;
+  }
+  .recent-points li::before{
+      content: "_ ";
+      color: red;
+    }
+    .recent-search span {
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 3px;
+  }
+  @media (max-width: 1023px){
+    .side-menu{
+        display: none;
+    }
+  }
+  .featured-topic span{
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 3px;
+  }
+  .featured-topic{
+    margin-top: 5px;
+    margin-left: 20px;
+  }
+  .featured-topic li {
+    font-weight: 300;
+    list-style: none;
+  }
+  .featured-topic li:hover{
+    text-decoration: underline;
+  }
+  .featured-topic li::before{
+    position: relative;
+      content: "_ ";
+      color: red;
+    }
+    .featured-topic #north-east{
+        color: rgb(94, 53, 0);
+        margin-left: 10px;
+    }
+    .featured-topic #north-east:hover{
+        color: rgb(255, 0, 0);
+        height: 20px;
+    }

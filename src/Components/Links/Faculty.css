@@ -1,0 +1,201 @@
+.faculty{
+    font-family: Poppins;
+    position: absolute;
+    top: 10vh;
+    width: 95vw;
+    left: 0;
+}
+.border{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-right: 1px solid rgb(161, 161, 161);
+    border-bottom: 1px solid rgb(161, 161, 161);
+}
+.faculty h3{
+    margin-left: 40px;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.faculty h3 span{
+    padding: 0px 10px 0px 10px;
+    background-color: red;
+    color: white;
+}
+.members{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.members h2 span{
+    color: white;
+    font-weight: 500;
+    padding: 0px 10px 0px 10px;
+
+    background-color: red;
+}
+.members h2{
+    margin-bottom: 15px;
+}
+.memberCard{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 90vw;
+    margin-bottom: 20px;
+}
+.member-details{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    z-index: 0;
+    position: relative;
+    height: 330px;
+    width: 380px;
+    padding: 10px;
+    background-color: rgb(255, 0, 0);
+    border: 3px solid red;
+    display: none;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+}
+.details p strong {
+    color: #111;
+}
+.details a svg{
+    color: white;
+    position: absolute;
+    height: 25px;
+}
+.details a svg:hover{
+    color: #111;
+}
+.commonDetails img{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    object-position: bottom;
+    border-radius: 40px 0px;
+    border: 2px solid red;
+}
+.commonDetails span{
+    font-weight: 600;
+}
+.member{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin: 10px;
+    width: 300px;
+    height: 350px;
+}
+.member:hover{
+    width: 700px;
+    transition: width .4s ease-in-out;
+}
+.member:hover .member-details{
+    display: flex;
+}
+.commonDetails{
+    border-radius: 10px 0px 0px 10px;
+    border: 3px solid red;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    position: absolute;
+    left: 0;
+}
+.members{
+    margin: 0;
+    border-top: 2px dashed #111;
+    padding-top: 30px;
+}
+.seniorFacultyPositions, .otherFacultyPositions{
+    margin-left: 20px;
+}
+@media (max-width: 695px) {
+    .memberCard{
+        /* background-color: #111; */
+        height: 350px;
+    }
+    .memberCard:hover{
+        height: 719px;
+        transition: height .4s ease;
+    }
+    .commonDetails{
+        width: 240px;
+
+    }
+    .commonDetails img{
+        width: 200px;
+    }
+    .memberCard{
+        /* background-color: #111; */
+        flex-direction: column;
+        overflow-x: auto;
+    }
+    .memberCard::-webkit-scrollbar{
+        display: none;
+    }
+    .member-details{
+        display: none;
+        position: absolute;
+        width: 220px;
+        left: 0;
+        top: 0;
+        /* bottom: 0; */
+    }
+    .member:hover .member-details{
+        display: flex;
+
+        transition: top .4s ease;
+
+        top: 350px;
+    }
+    .seniorFacultyPositions{
+        height: 100%;
+    }
+    .member:hover{
+        width: 250px;
+        transition: width .4s ease-in-out;
+    }
+}
+
+
+.aboutFaculty{
+    font-weight: 500;
+    margin: 20px 25px 30px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.aboutFaculty .quote strong{
+    color: red;
+}
+.aboutFaculty .quote {
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+.aboutFaculty ul{
+    margin-top: 30px;
+}
+.aboutFaculty ul li{
+    list-style: none;
+}
+.aboutFaculty ul li::before{
+    content: "_ ";
+    margin-right: 10px;
+    font-weight: 800;
+    color: red;
+}

@@ -1,0 +1,31 @@
+{
+    "spotlightNews": [
+      {
+        "img": "https://source.unsplash.com/random",
+        "id": "3",
+        "headline": "Spotlight News Headline",
+        "description": "Spotlight News Description"
+      }
+    ],
+    "oldNews": [
+      {
+        "img": "https://source.unsplash.com/random",
+        "id": "2",
+        "headline": "Old News Headline",
+        "description": "Old News Description"
+      },
+      {
+        "img": "https://source.unsplash.com/random",
+        "id": "1",
+        "headline": "Another Old News Headline",
+        "description": "Another Old News Description"
+      },
+      {
+        "img": "https://source.unsplash.com/random",
+        "id": "1",
+        "headline": "Another Old News Headline",
+        "description": "Another Old News Description"
+      }
+    ]
+  }
+  

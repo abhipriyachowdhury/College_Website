@@ -1,0 +1,18 @@
+.old-news a {
+    text-decoration: none;
+    color: #111;
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+    margin-top: 10px;
+    padding: 10px;
+    text-decoration: none;
+  }
+.old-news img{
+  object-fit: cover;
+    max-width: 300px;
+   height: 300px; 
+}
+.old-news h2:hover{
+    text-decoration: underline;
+}

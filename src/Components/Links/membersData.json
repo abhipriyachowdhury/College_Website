@@ -1,0 +1,414 @@
+{
+  "members": [
+    {
+      "name": "John Doe",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "10 years",
+      "department": "Computer Science",
+      "position": "Principal",
+      "age": 45,
+      "linkedin": "https://www.linkedin.com/in/arkaprava-bhattacharya/"
+    },
+    {
+      "name": "John Doe",
+      "degree": "PhD in Computer Science",
+      "experience": "10 years",
+      "department": "Computer Science",
+      "position": "Professor",
+      "age": 45
+    },
+    {
+      "name": "Jane Smith",
+      "degree": "Masters in Economics",
+      "experience": "8 years",
+      "department": "Economics",
+      "position": "Associate Professor",
+      "age": 40
+    },
+    {
+      "name": "Alex Johnson",
+      "degree": "Bachelor's in Mechanical Engineering",
+      "experience": "5 years",
+      "department": "Mechanical Engineering",
+      "position": "Assistant Professor",
+      "age": 35
+    },
+    {
+      "name": "Emily Brown",
+      "degree": "PhD in Computer Science",
+      "experience": "12 years",
+      "department": "Computer Science",
+      "position": "Professor",
+      "age": 50
+    },
+    {
+      "name": "Michael Williams",
+      "degree": "Masters in Economics",
+      "experience": "9 years",
+      "department": "Economics",
+      "position": "Associate Professor",
+      "age": 45
+    },
+    {
+      "name": "Samantha Patel",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "15 years",
+      "department": "Computer Science",
+      "position": "Dean",
+      "age": 48,
+      "linkedin": "https://www.linkedin.com/in/samanthapatel/"
+    },
+    {
+      "name": "Arkaprav Bhattacharya",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "0 years",
+      "department": "Computer Science",
+      "position": "Head of Department",
+      "age": 32,
+      "linkedin": "https://www.linkedin.com/in/arkaprava-bhattacharya/"
+    },
+    {
+      "name": "Michael Johnson",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "20 years",
+      "department": "Computer Science",
+      "position": "Professor",
+      "age": 54,
+      "linkedin": "https://www.linkedin.com/in/michaeljohnson/"
+    },
+    {
+      "name": "Emily Carter",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "12 years",
+      "department": "Computer Science",
+      "position": "Associate Professor",
+      "age": 40,
+      "linkedin": "https://www.linkedin.com/in/emilycarter/"
+    },
+    {
+      "name": "Jonathan Lee",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "5 years",
+      "department": "Computer Science",
+      "position": "Assistant Professor",
+      "age": 32,
+      "linkedin": "https://www.linkedin.com/in/jonathanlee/"
+    },
+    {
+      "name": "Alice Wang",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "8 years",
+      "department": "Computer Science",
+      "position": "Chair",
+      "age": 38,
+      "linkedin": "https://www.linkedin.com/in/alicewang/"
+    },
+    {
+      "name": "David Kim",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "10 years",
+      "department": "Computer Science",
+      "position": "Chair",
+      "age": 42,
+      "linkedin": "https://www.linkedin.com/in/davidkim/"
+    },
+    {
+      "name": "Rachel Scott",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Physics",
+      "experience": "11 years",
+      "department": "Physics",
+      "position": "Professor",
+      "age": 44,
+      "linkedin": "https://www.linkedin.com/in/rachelscott/"
+    },
+    {
+      "name": "Christopher Miller",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "Masters in Chemistry",
+      "experience": "10 years",
+      "department": "Chemistry",
+      "position": "Associate Professor",
+      "age": 39,
+      "linkedin": "https://www.linkedin.com/in/christophermiller/"
+    },
+    {
+      "name": "Megan Wilson",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Mathematics",
+      "experience": "8 years",
+      "department": "Mathematics",
+      "position": "Assistant Professor",
+      "age": 36,
+      "linkedin": "https://www.linkedin.com/in/meganwilson/"
+    },
+    {
+      "name": "Robert Clark",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Economics",
+      "experience": "17 years",
+      "department": "Economics",
+      "position": "Professor",
+      "age": 50,
+      "linkedin": "https://www.linkedin.com/in/robertclark/"
+    },
+    {
+      "name": "Olivia Martinez",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Sociology",
+      "experience": "12 years",
+      "department": "Sociology",
+      "position": "Associate Professor",
+      "age": 43,
+      "linkedin": "https://www.linkedin.com/in/oliviamartinez/"
+    },
+    {
+      "name": "Matthew Harris",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in History",
+      "experience": "9 years",
+      "department": "History",
+      "position": "Assistant Professor",
+      "age": 38,
+      "linkedin": "https://www.linkedin.com/in/matthewharris/"
+    },
+    {
+      "name": "Sophia Lopez",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Psychology",
+      "experience": "13 years",
+      "department": "Psychology",
+      "position": "Professor",
+      "age": 47,
+      "linkedin": "https://www.linkedin.com/in/sophialopez/"
+    },
+    {
+      "name": "Daniel Thompson",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "Masters in Education",
+      "experience": "6 years",
+      "department": "Education",
+      "position": "Assistant Professor",
+      "age": 35,
+      "linkedin": "https://www.linkedin.com/in/danielthompson/"
+    },
+    {
+      "name": "Ava Robinson",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "10 years",
+      "department": "Computer Science",
+      "position": "Associate Professor",
+      "age": 41,
+      "linkedin": "https://www.linkedin.com/in/avarobinson/"
+    },
+    {
+      "name": "James Lewis",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Electrical Engineering",
+      "experience": "18 years",
+      "department": "Electrical Engineering",
+      "position": "Professor",
+      "age": 50,
+      "linkedin": "https://www.linkedin.com/in/jameslewis/"
+    },
+    {
+      "name": "Charlotte Young",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Environmental Science",
+      "experience": "7 years",
+      "department": "Environmental Science",
+      "position": "Assistant Professor",
+      "age": 34,
+      "linkedin": "https://www.linkedin.com/in/charlotteyoung/"
+    },
+    {
+      "name": "Logan Walker",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Political Science",
+      "experience": "15 years",
+      "department": "Political Science",
+      "position": "Professor",
+      "age": 48,
+      "linkedin": "https://www.linkedin.com/in/loganwalker/"
+    },
+    {
+      "name": "Harper Martinez",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Law",
+      "experience": "16 years",
+      "department": "Law",
+      "position": "Professor",
+      "age": 49,
+      "linkedin": "https://www.linkedin.com/in/harpermartinez/"
+    },
+    {
+      "name": "Elijah Hall",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Business Administration",
+      "experience": "14 years",
+      "department": "Business Administration",
+      "position": "Associate Professor",
+      "age": 46,
+      "linkedin": "https://www.linkedin.com/in/elijahhall/"
+    },
+    {
+      "name": "Isabella Perez",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "Masters in Fine Arts",
+      "experience": "9 years",
+      "department": "Fine Arts",
+      "position": "Assistant Professor",
+      "age": 37,
+      "linkedin": "https://www.linkedin.com/in/isabellaperez/"
+    },
+    {
+      "name": "Mason Baker",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Philosophy",
+      "experience": "8 years",
+      "department": "Philosophy",
+      "position": "Associate Professor",
+      "age": 39,
+      "linkedin": "https://www.linkedin.com/in/masonbaker/"
+    },
+    {
+      "name": "Evelyn Collins",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Linguistics",
+      "experience": "13 years",
+      "department": "Linguistics",
+      "position": "Professor",
+      "age": 44,
+      "linkedin": "https://www.linkedin.com/in/evelyncollins/"
+    },
+    {
+      "name": "Liam Turner",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Anthropology",
+      "experience": "11 years",
+      "department": "Anthropology",
+      "position": "Professor",
+      "age": 43,
+      "linkedin": "https://www.linkedin.com/in/liamturner/"
+    },
+    {
+      "name": "Amelia Bell",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Geography",
+      "experience": "7 years",
+      "department": "Geography",
+      "position": "Assistant Professor",
+      "age": 35,
+      "linkedin": "https://www.linkedin.com/in/ameliabell/"
+    },
+    {
+      "name": "Jack Hill",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Astronomy",
+      "experience": "15 years",
+      "department": "Astronomy",
+      "position": "Professor",
+      "age": 50,
+      "linkedin": "https://www.linkedin.com/in/jackhill/"
+    },
+    {
+      "name": "Emma Cooper",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "12 years",
+      "department": "Computer Science",
+      "position": "Professor",
+      "age": 45,
+      "linkedin": "https://www.linkedin.com/in/emmacooper/"
+    },
+    {
+      "name": "Lucas Edwards",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Economics",
+      "experience": "10 years",
+      "department": "Economics",
+      "position": "Associate Professor",
+      "age": 41,
+      "linkedin": "https://www.linkedin.com/in/lucasedwards/"
+    },
+    {
+      "name": "Grace Anderson",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Psychology",
+      "experience": "9 years",
+      "department": "Psychology",
+      "position": "Assistant Professor",
+      "age": 38,
+      "linkedin": "https://www.linkedin.com/in/graceanderson/"
+    },
+    {
+      "name": "Alexander Rivera",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Chemistry",
+      "experience": "14 years",
+      "department": "Chemistry",
+      "position": "Professor",
+      "age": 47,
+      "linkedin": "https://www.linkedin.com/in/alexanderrivera/"
+    },
+    {
+      "name": "Victoria Price",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Biology",
+      "experience": "8 years",
+      "department": "Biology",
+      "position": "Assistant Professor",
+      "age": 36,
+      "linkedin": "https://www.linkedin.com/in/victoriaprice/"
+    },
+    {
+      "name": "Daniel Foster",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Economics",
+      "experience": "16 years",
+      "department": "Economics",
+      "position": "Professor",
+      "age": 49,
+      "linkedin": "https://www.linkedin.com/in/danielfoster/"
+    },
+    {
+      "name": "Hannah Ross",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Sociology",
+      "experience": "13 years",
+      "department": "Sociology",
+      "position": "Associate Professor",
+      "age": 45,
+      "linkedin": "https://www.linkedin.com/in/hannahross/"
+    },
+    {
+      "name": "Oliver Jenkins",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Political Science",
+      "experience": "18 years",
+      "department": "Political Science",
+      "position": "Professor",
+      "age": 50,
+      "linkedin": "https://www.linkedin.com/in/oliverjenkins/"
+    },
+    {
+      "name": "Jennifer Garcia",
+      "profilePic": "https://source.unsplash.com/random/?profile",
+      "degree": "PhD in Computer Science",
+      "experience": "6 years",
+      "department": "Computer Science",
+      "position": "Research Faculty",
+      "age": 35,
+      "linkedin": "https://www.linkedin.com/in/jennifergarcia/"
+    }
+  ]
+}

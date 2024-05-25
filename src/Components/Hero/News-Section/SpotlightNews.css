@@ -1,0 +1,43 @@
+.spotlight-news {
+    height: 40vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  
+  .spotlight-news img {
+    object-fit: cover;
+    height: 40vh;
+    width: 50vw;
+  }
+  
+  .Spotlight-details {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(27deg, rgba(36,36,36,1) 0%, rgba(36,36,36,0) 100%);
+    color: antiquewhite;
+    position: absolute;
+    top: 0;
+    padding: 10px;
+  }
+  .description{
+    position: absolute;
+    bottom: 40px;
+  }
+  .Spotlight-details h2:hover{
+    text-decoration: underline;
+  }
+  @media (max-width: 1024px) {
+    .spotlight-news {
+      height: 40vh;
+      width: 95vw;
+    }
+    .spotlight-news img {
+      height: 40vh;
+      width: 95vw;
+    }
+    
+  }

@@ -1,0 +1,46 @@
+.ribbon-container{
+    z-index: 99999;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Poppins;
+    font-weight: 500;
+    position: fixed;
+    top: 10vh;
+    right: 0px;
+    width: 5vw;
+    min-width: 40px;
+    height: 90vh;
+    background: black;
+    color: white;
+}
+.ribbon-container:hover{
+    background: white;
+    color: black;
+}
+.date{
+    font-size: 1.5em;
+    margin-top: 40px;
+    writing-mode: vertical-lr;
+}
+.day-name {
+    color: #ff0000;
+  }
+  
+.weather{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 100px;
+}
+.temp{
+    margin-top: 10px;
+    font-size: .875rem;
+}
+@media (max-width:1308px) {
+    .temp{
+        writing-mode: vertical-lr;
+    }
+}
