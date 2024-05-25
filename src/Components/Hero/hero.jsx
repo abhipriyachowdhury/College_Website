@@ -98,7 +98,7 @@ const getImg = (photo) => {
 
         </div>
         <span className='clgName'>Academy of Technology</span>
-        <span className='estd'>ESTD: 2008</span>
+        <span className='estd'>ESTD: 2003</span>
         <span className='quote-main'>
         Translate your <strong>vision</strong> into <strong>reality</strong>
         </span>
